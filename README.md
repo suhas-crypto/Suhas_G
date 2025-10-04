@@ -21,11 +21,19 @@ I'm a passionate Software Developer with expertise in Python, AI/ML, and Full-St
 
 ## Certifications
 - IBM AI Engineering Professional Certificate
+AI_Capstone_Deep_Learning_project: 
+CS109xa: Machine Learning and AI with Python: 
+AWS Cloud Practitioner Essentials:
+Machine Learning in python (V2) (IBM):
+Data Science with Python (ExcelR):
+GATE (Q) in DA: LINK
+GENERATIVE AI FOUNDATION CERTIFICATE:
+
 - [Other certifications...]
 
 ## Get In Touch
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/suhasbelindo/
+- Email: suhas.belindo@gmail.com
 
 ---
 
